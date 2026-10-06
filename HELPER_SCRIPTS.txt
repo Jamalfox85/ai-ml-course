@@ -1,2 +1,8 @@
-## Open venv
-source .venv/bin/activate
+## Activate venv
+```source .venv/bin/activate```
+
+## Initialize venv
+```uv venv```
+
+## Create pyproject.toml
+```uv init```
