@@ -1,0 +1,2 @@
+## Open venv
+source .venv/bin/activate
