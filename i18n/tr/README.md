@@ -1423,3 +1423,4 @@ MIT. İstediğiniz gibi kullanın: çatallayın, öğretin, satın, yayımlayın
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+# ai-ml-course

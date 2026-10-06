@@ -1423,3 +1423,4 @@ MIT 许可。随你怎么用：复刻、教学、出售、发布都行。欢迎�
   <a href="https://aiengineeringfromscratch.com">aiengineeringfromscratch.com</a> &nbsp;·&nbsp;
   <a href="https://github.com/rohitg00/ai-engineering-from-scratch/issues/new/choose">Report / Suggest</a>
 </sub>
+# ai-ml-course
